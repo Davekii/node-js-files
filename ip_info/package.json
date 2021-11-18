@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "internal-ip": "^7.0.0",
+    "ip-info-finder": "^1.1.5",
+    "ipinfo": "^1.5.1",
+    "log-to-file": "^3.0.0"
+  }
+}
